@@ -11,9 +11,9 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "Pkdriller1ScGQTpY#OIUoMUcjFkH0Hu6PRoBfAyytMw25tBxH34LRcpp3uss",
       "required": true,
-      "value": ""
+      "value": "true"
     },  
     
     "ALIVE_IMG": {
@@ -98,13 +98,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "pkdriller"
+      "value": "𝐷𝐸ℕ𝐵𝙊𝑌☆"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254785392165"
+      "value": "263789085533"
  },
 
     "BOT_NAME": {
@@ -142,13 +142,13 @@
       "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     
     "AUTO_RECORDING": {
       "description": "Make it true if you want auto recoding.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
 
     "AUTO_TYPING": {
